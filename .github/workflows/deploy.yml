@@ -1,6 +1,6 @@
 name: Deploy React App
 
-on:
+"on":
   push:
     branches:
       - main
